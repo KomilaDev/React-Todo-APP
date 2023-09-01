@@ -2,7 +2,6 @@ import {useEffect,useState} from "react"
 import "./header.css"
 
 export const Header = () => {
-
   const [theme, setTheme] = useState("light")
 
   const modeToggle = () => {

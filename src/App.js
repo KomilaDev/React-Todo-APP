@@ -91,7 +91,7 @@ function App() {
           <input
             className="form-control mb-3 shadow w-50"
             type="number"
-            placeholder="Narxini kriting..."
+            placeholder="Enter the price..."
             value={price}
             onChange={(e) => setPrice(e.target.value)}
           />
@@ -110,9 +110,9 @@ function App() {
         <thead>
           <tr>
             <th scope="col">#</th>
-            <th scope="col">name</th>
-            <th scope="col">category</th>
-            <th scope="col">price</th>
+            <th scope="col">Name</th>
+            <th scope="col">Category</th>
+            <th scope="col">Price</th>
           </tr>
         </thead>
         <tbody>
