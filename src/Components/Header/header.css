@@ -1,0 +1,13 @@
+.light {
+  background: linear-gradient(217deg, rgba(255, 0, 98, 0.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(140, 3, 113, 0.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(25, 0, 255, 0.8), rgba(0,0,255,0) 70.71%);
+}
+.dark {
+  background: linear-gradient(#e6d964, #e591e5);
+}
+.other {
+  background: linear-gradient(217deg, rgba(197, 152, 152, 0.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(156, 223, 156, 0.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(157, 157, 198, 0.8), rgba(0,0,255,0) 70.71%);
+}
